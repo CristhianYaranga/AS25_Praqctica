@@ -220,6 +220,10 @@ docker pull nombre-imagen
 ## Capturas de Pantalla
 
 <img width="1406" height="645" alt="image" src="https://github.com/user-attachments/assets/fc2b7ee1-5174-4ce2-acd1-3c8ef793f254" />
+<img width="1148" height="841" alt="image" src="https://github.com/user-attachments/assets/6ab1f125-e2e9-4df4-97fd-3d3946c51ae3" />
+<img width="1097" height="763" alt="image" src="https://github.com/user-attachments/assets/83f6c4d6-d2f7-448c-97f0-fa6fb00dc5e9" />
+
+
 
 
 Ubicación:
